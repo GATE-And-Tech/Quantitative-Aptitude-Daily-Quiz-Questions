@@ -8,7 +8,9 @@ This repository offers a daily dose of quiz questions that delve into various as
 
 ## 📚 About
 
-This repository is part of the GATE And Tech initiative to help students prepare for competitive exams like GATE, PGEE, and other technical examinations. Quantitative Aptitude is a crucial section in many competitive exams, and this repository provides daily practice questions to master it.
+This repository is part of the [GATE And Tech initiative](https://gateandtech.in/) to help students prepare for competitive exams like GATE, PGEE, and other technical examinations. Quantitative Aptitude is a crucial section in many competitive exams, and this repository provides daily practice questions to master it.
+
+**Topics:** Arithmetic, Algebra, Geometry, Percentage, Profit & Loss, Time & Work
 
 ## 🎯 Resources
 
